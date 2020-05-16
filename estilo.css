@@ -1,5 +1,5 @@
 body {
-    background-color: rgb(110, 110, 110);
+    background-color: rgba(70, 189, 219);
     font: normal 15pt Arial;
 }
 
@@ -14,11 +14,15 @@ section {
     padding: 13px;
     width: 400px;
     margin: auto;
-    box-shadow: 3px 3px 10px rgba(0, 0, 0, 0.3);
+    box-shadow: 3px 3px 10px rgba(0, 0, 0, 0.4);
+}
+
+div {
+    text-align: center;
 }
 
 footer {
-    font: bold 9pt Arial;
+    font: bold 9pt Calibri;
     color: white;
     text-align: center;
 }
